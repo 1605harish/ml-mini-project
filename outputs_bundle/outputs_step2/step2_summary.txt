@@ -1,0 +1,1 @@
+Best threshold T* = 24 months | Balanced accuracy = 0.631 | n = 126

@@ -1,0 +1,4 @@
+Samples used: 184
+Features in final Cox model: 20
+5-fold CV C-index: 0.644 ± 0.115
+Log-rank p-value (high vs low risk): 1.401e-06
